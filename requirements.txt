@@ -1,0 +1,6 @@
+python-vlc
+pyqt5
+matplotlib
+numpy
+scikit-learn
+opencv-python-headless
